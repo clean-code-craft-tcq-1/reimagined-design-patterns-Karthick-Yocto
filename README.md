@@ -51,7 +51,7 @@ Give a summary description of Four design patterns that you choose from the foll
 	     
 	     
 	     
-**Observer Pattern:**
+**3. Observer Pattern:**
 
 	The Observer pattern is contains three parts 
 		1.Subject 
@@ -62,6 +62,7 @@ Give a summary description of Four design patterns that you choose from the foll
 	when ever any state changes automatically notifies change status to observer
 	
 **Problem statement:  
+		
 		[E-x] Flipkart ,amazon
 		When ever product is not available in flipkart, there one option is called "NotifyMe". 
 		If we registered into that, whenever product is available, will notify to registered user.
