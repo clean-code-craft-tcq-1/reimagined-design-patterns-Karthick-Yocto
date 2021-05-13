@@ -29,5 +29,5 @@ Give a summary description of Four design patterns that you choose from the foll
 
 **Advantages:
 
--This pattern is used to acheive two independent process communication    
+          -This pattern is used to acheive two independent process communication    
     
