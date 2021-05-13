@@ -45,5 +45,5 @@ Give a summary description of Four design patterns that you choose from the foll
           
   **Problem statement:        
               
-	      if any changes in abstraction layer, it won't effect in implementation layer. 
-              if any changes in implementation layer, it won't effect in abstraction layer.
+	    Where ever, if any changes in abstraction layer, it won't effect in implementation layer. 
+             Where ever, if any changes in implementation layer, it won't effect in abstraction layer.
