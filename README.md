@@ -8,3 +8,19 @@ Give a summary description of Four design patterns that you choose from the foll
 - Write a short summary for each of the four patterns, about half a page for each pattern (rather less than more). 
 
 > Do not add diagrams, and do not try to give a complete description of the patterns as found in the books. Rather think of how you would explain the essential ideas of these patterns in a few sentences to a colleague while drinking coffee.
+> 
+
+
+
+**Adapter Pattern:
+          -Adapter pattern works as a transulator between two incompatible interfaces.
+          -This pattern involves function called adater which is responsible for communication between two 
+           independent or incompatible interface.
+
+**Problem statement:
+    Whenever try to communicate with two application in two different platform (32-bit and 64-bit), then we need interface(Trasulator).
+      
+      A( 32- bit)      ----Transulator(Adapter)----- B( 64 - bit)
+**Advantages:
+  -Helps to acheive two independent process communication    
+    
