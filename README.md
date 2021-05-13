@@ -67,3 +67,14 @@ Give a summary description of Four design patterns that you choose from the foll
 		When ever product is not available in flipkart, there one option is called "NotifyMe". 
 		If we registered into that, whenever product is available, will notify to registered user.
 		
+
+
+**4. State pattern:**
+
+	The state pattern allows to change its behavior, when its internal state change
+	
+**Problem statement: 
+
+	When ever program having multiple states, instead of using switch case(to avoid cyclomatic complexity). 
+	we can go to state design pattern(abstract class)
+	
