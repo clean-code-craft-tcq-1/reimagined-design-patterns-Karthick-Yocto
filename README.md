@@ -12,7 +12,7 @@ Give a summary description of Four design patterns that you choose from the foll
 
 
 
-**Adapter Pattern:
+**1.Adapter Pattern:
 
           -Adapter pattern works as a transulator between two incompatible interfaces.
           
@@ -34,16 +34,16 @@ Give a summary description of Four design patterns that you choose from the foll
           
           
   
-** Bridge Pattern:
+**2. Bridge Pattern:
  
           Bridge pattern used to spilt implementation into two part
 
-	1. Abstraction 
-	2. Implementation
-
-          if i made any changes in abstraction layer, it won't effect in implementation layer. 
-          if i made any changes in implementation layer, it won't effect in abstraction layer. 
+		1. Abstraction 
+		2. Implementation
+ 
           Abstraction and implementation to be developed independently
           
-          
-    
+  **Problem statement:        
+              
+	      if any changes in abstraction layer, it won't effect in implementation layer. 
+              if any changes in implementation layer, it won't effect in abstraction layer.
