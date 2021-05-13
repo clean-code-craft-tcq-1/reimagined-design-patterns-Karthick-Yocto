@@ -21,7 +21,7 @@ Give a summary description of Four design patterns that you choose from the foll
 
 **Problem statement:
 
-    Whenever try to communicate with two application in two different platform (32-bit and 64-bit), then we need interface(Trasulator).
+    Whenever try to communicate two application with two different platform (32-bit and 64-bit), then we should need interface(Trasulator).
       
       
       A( 32- bit)      ----Transulator(Adapter)----- B( 64 - bit)
