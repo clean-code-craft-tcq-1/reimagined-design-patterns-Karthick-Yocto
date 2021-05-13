@@ -47,3 +47,22 @@ Give a summary description of Four design patterns that you choose from the foll
               
 	    Where ever, if any changes in abstraction layer, it won't effect in implementation layer. 
              Where ever, if any changes in implementation layer, it won't effect in abstraction layer.
+	     
+	     
+	     
+	     
+**Observer Pattern:**
+
+	The Observer pattern is contains three parts 
+		1.Subject 
+		2.Notify
+		3.Observer
+	
+	Observer pattern is used to store all dependents into subject(to register), those dependents is called observer(listener). 
+	when ever any state changes automatically notifies change status to observer
+	
+**Problem statement:  
+		[E-x] Flipkart ,amazon
+		When ever product is not available in flipkart, there one option is called "NotifyMe". 
+		If we registered into that, whenever product is available, will notify to registered user.
+		
